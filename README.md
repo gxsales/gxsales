@@ -6,6 +6,7 @@
 
 ![Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=gxsales&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxsales&layout=compact)
 ## Tecnologias 💻
 
 <div style="display: inline_block"><br/>
